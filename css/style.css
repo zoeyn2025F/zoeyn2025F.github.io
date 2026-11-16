@@ -1,6 +1,6 @@
 :root {
     --primaryText: #fff;
-    --secondaryText: #ff015e;
+    --secondaryText: #6701ff;
     --primary: rgba(156, 39, 176, .60);
     --secondary: rgba(255, 1, 94, .60); 
     --buttonHover: rgba(156, 39, 176, .40);
@@ -34,7 +34,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: Futura, Verdana, sans-serif;
+    font-family: "Merriweather", serif;
     line-height: 1.5;
     font-size: 18px;
     display: flex;
